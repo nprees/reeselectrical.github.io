@@ -1,12 +1,11 @@
 # Site settings
 title: Rees Electrical
-email: nicholas.rees@live.co.uk
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: simon.rees@btconnect.com
+phone_number: 07960890484
+description: "Rees Electrical Providing Electrical Installation to Pembrokeshire (Electrician Service)"
 baseurl: "http://www.reeselectrical.com"
 url: "http://www.reeselectrical.com"
-
-twitter_username: nprees
-github_username: nprees
+port: 4444
 
 # Build settings
 markdown: kramdown
